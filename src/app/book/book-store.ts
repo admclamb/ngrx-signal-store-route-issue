@@ -12,7 +12,7 @@ import {
 const books = [
   {
     id: 1,
-    title: 'Book 1',
+    title: 'Very interesting book',
   },
 ];
 
